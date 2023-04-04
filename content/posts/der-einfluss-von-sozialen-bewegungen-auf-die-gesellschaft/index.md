@@ -8,8 +8,6 @@ description = "Reportage: Der Einfluss von sozialen Bewegungen auf die Gesellsch
 +++
 # Der Einfluss von Klimastreik auf die Gesellschaft
 
- 
-
 Wir betreten den grossen Klimaraum und sind überrascht: beladene Tische, eine Fensterbank mit Aussicht über Bern, Flaggen an den Wänden und dutzende Flyer zu verschiedenen Demos an einer Magnetwand.
 
 Unsere Interviewpartnerin Tina sitzt am Boden und schreibt gerade ein Transparent. Die Szene vermittelt einen unordentlichen, aber sympathischen ersten Eindruck. Sie entschuldigt sich für die Unordnung und wir beginnen mit dem Interview.
@@ -20,17 +18,11 @@ Der Arbeitsaufwand in einer Bewegung wie Klimastreik ist nicht zu unterschätzen
 
 Tina erzählt uns auch von dem ,,Aktionskodex’’, der bei jeder Art von Aktivitäten an oberster Stelle steht. Konkret; Keine Gewalt. Unter keinen Umständen. Der Klimastreik ist eine friedliche und gewaltlose Bewegung wo Aggression und ähnliches kein Platz hat.
 
- 
-
-![](bild1.png "Klimastreik Bild")
+![Klimastreik Bild](bild1.png "Klimastreik Bild")
 
 Mitte 2018 hat der Klimaaktivismus unter dem Namen ,,Fridays for Future’’ begonnen.  Greta Thunberg hat in Schweden damit angefangen, eine Bewegung ins Leben zu rufen, die mittlerweile riesige Ausmasse angenommen hat. Im Sommer 2019 nahmen in Bern nach Aussage von Klimastreik Schweiz 100'000 Menschen an einem globalen Streik teil. Mittlerweile ist der Trend wieder abgeflacht. Doch wie ist es möglich, dass eine Schülerin Millionen von Menschen auf der ganzen Welt aktivieren kann, damit sie sich weltweit fürs Klima einsetzen?
 
 Die Antwort ist recht banal. Die Menschen können sich mit den Ideologien von Greta Thunberg identifizieren, sie sehen, dass das Klima alle betrifft. Dieses Grundprinzip ist bei allen sozialen Bewegungen gleich. Eine Dynamik entsteht, Menschen gehen auf die Strasse, machen auf sich aufmerksam und erreichen durch die Medien die ganze Welt und somit mehr Menschen, die die gleichen Überzeugungen haben. Für kurze Zeit ist es ein selbstverstärkender Kreislauf, da immer mehr Menschen informiert werden und sich anschliessen wollen. 
-
- 
-
- 
 
 ##  
 
@@ -46,25 +38,11 @@ Es ist sehr gefährlich, wenn eine Bewegung ein Feindbild hat und zu Gewalt bere
 
 Wenn man jetzt die Bewegung Klimastreik mit der Bewegung des Nationalismus vergleicht, sieht man zum Glück keine Analogien. Gewaltbereitschaft, Rassismus und ein Hierarchiesystem werden bei der Klimabewegung nicht geduldet und sind somit auch kein Thema. Es ist auch ein etwas extremes Beispiel, doch man hat gesehen, dass wenn genug Menschen sich angesprochen fühlen oder überzeugt werden, es in den Händen der Schlüsselfiguren liegt, was passiert.
 
- 
-
 # Tina als Mitglied der Bewegung
 
 1. Tina ist eine junge Frau die eigentlich ein sorgloses Leben führen sollte, doch etwas bewegt sie, wie auch viele andere zu Unruhe und stundenlanger Freiwilligenarbeit. Es ist die Angst um die Zukunft, die Frage was mit uns und den nachfolgenden Generationen geschehen wird, wenn wir unserer Umwelt und unserer Ressourcen derart strapazieren. Diese Dinge treiben Tina an, ihre Freizeit in die Bewegung Klimastreik zu stecken. Doch nicht alle haben diesen gleichen Willen unserer Erde zu schützten und deshalb fühlen sich Personen wie Tina dazu verpflichtet sich dem zu widersetzten. Sie erzählt uns von Ihrer täglichen Arbeit, ihren Zielen und was sie antreibt. Tina berichtet, wie sich damals der Peak der Dynamik entwickelt hat: «Plötzlich begann dieser Aufschwung, es kamen fast bis zu 100'000 Leute auf die Strasse, die Bewegung war stark. Doch schnell wird klar, die Politik und die grossen Konzerne sind auch mit solch riesigen Demonstrationen nicht zu beeinflussen, und nach jedem Hoch folgt dann auch ein Tief. Der Hype ist abgeflacht und die Teilnehmerzahlen schwanden, es änderte sich einfach zu wenig, für den unglaublichen Aufwand, welcher betrieben wurde.» Deswegen sei Sie heute selbst nicht mehr ein Fan davon. Doch anstatt der
 
 abgeflachten Dynamik nachzutrauern, ist sie fest entschlossen weiterzukämpfen, und meint: «Ich will jemand sein der sagen kann, sie habe gekämpft und es versucht, um am Ende des Lebens sich nicht über die verpasste Chance zu ärgern.» Eins steht fest, Tina ist fest entschlossen, immer neue Wege zu suchen, um unseren Planeten zu retten und für eine faire Zukunft für alle zu sorgen. Auch wenn Sie weiss, dass der Weg zur Besserung noch weit entfernt ist.
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
 
 **Quellen:**
 
