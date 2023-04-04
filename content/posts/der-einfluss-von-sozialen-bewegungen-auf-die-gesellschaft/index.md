@@ -1,5 +1,5 @@
 +++
-title = "Der Einfluss von sozialen Bewegungen auf die Gesellschaft"
+title = "Die Macht der Bewegung"
 date = "2023-04-03"
 draft = false
 pinned = false
